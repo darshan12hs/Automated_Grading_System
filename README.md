@@ -35,5 +35,5 @@ git clone https://github.com/your-username/automated-grading-system.git
 cd automated-grading-system
 pip install -r requirements.txt
 
-Run the project:
+## Run the project:
 python main.py
